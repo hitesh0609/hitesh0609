@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hitesh Rane.
-- 👀 I’m interested in Frontend technologies like HTML, CSS, Javascript, Angular.
+- 👀 I’m interested in Frontend technologies like HTML, CSS, Javascript, Bootstrap, Angular.
 - 🌱 I’m currently learning React js, node js and MongoDb.
 
 <!---
